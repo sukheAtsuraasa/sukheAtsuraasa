@@ -7,6 +7,7 @@
 
 **Backend**<br />
 <img height="40" src="https://cdn.svgporn.com/logos/nodejs.svg">
+<img height="40" src="https://cdn.svgporn.com/logos/adonisjs.svg"> 
 <img height="40" src="https://cdn.svgporn.com/logos/python.svg">
 <img height="40" src="https://cdn.svgporn.com/logos/django-icon.svg">
 <img height="40" src="https://miro.medium.com/max/599/1*uHzooF1EtgcKn9_XiSST4w.png"> 
